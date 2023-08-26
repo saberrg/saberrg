@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <a href="mailto:saber@sabergaribi.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-Computer and Cybersecurity Engineeering Undergrad at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
+3rd Year Computer and Cybersecurity Engineeering Undergrad at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
 </p>
