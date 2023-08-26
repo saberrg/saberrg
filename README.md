@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <a href="mailto:saber@sabergaribi.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-Java Web Developer and Computer and Cyber Engineeering Undergraduate at Illinois Tech. This is my github all things related to class work and personal projects.
+Computer and Cybersecurity Engineeering Undergrad at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
 </p>
