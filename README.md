@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align= 'center'> Saber R.G. </h1>
 </p>
 <p align='center'>
-<a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
+<a href="mailto:saber@sabergaribi.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-Java Web Developer and Computer and Cyber Engineeering Undergraduate at Illinois Tech. You can contact me via email at saber@sabergaribi.com
+Java Web Developer and Computer and Cyber Engineeering Undergraduate at Illinois Tech. This is my github all things related to class work and personal projects.
 </p>
