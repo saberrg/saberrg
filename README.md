@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p align='center'>
 <a href="mailto:gadly0123@gmail.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
 </p>
-
-
-### 🙋🏽‍♂️About Me
+<p align='center'>
 Java Web Developer and Computer and Cyber Engineeering Undergraduate at Illinois Tech. You can contact me via email at saber@sabergaribi.com
+</p>
