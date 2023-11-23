@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 </p>
 <p align='center'>
 3rd Year Computer and Cybersecurity engineering major at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
-🔭 I’m currently working on extracting api data and uploading it SQL to an enterprise level database.
+
+</br>🔭 I’m currently working on extracting api data and uploading it SQL to an enterprise level database.
 
 ⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago!
 </p>
