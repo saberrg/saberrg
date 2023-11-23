@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 </br>🔭 I’m currently working on extracting api data and uploading it SQL to an enterprise level database.
 
-⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago!
+⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago, IL!
 </p>
