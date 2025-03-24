@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align='center'>
 3rd Year Computer and Cybersecurity engineering major at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
 
-</br>🔭 I’m currently working on extracting api data and uploading it SQL to an enterprise level database.
+</br>🔭 I’m currently developing a conversational AI application for a consulting firm
 
 ⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago, IL!
 </p>
