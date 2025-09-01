@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align='center'>
 4th Year Computer and Cybersecurity engineering major at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
 
-</br>🔭 I’m currently developing a conversational AI application for a consulting firm
+</br>🔭 Currently helping with maintaining a conversational AI application for a consulting firm
 
 ⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago, IL!
 </p>
