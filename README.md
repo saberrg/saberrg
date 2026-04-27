@@ -1,27 +1,20 @@
-### Hi there 👋
+# Saber Garibi
 
-<!--
-**saberrg/saberrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer and Cybersecurity Engineering student at Illinois Institute of Technology, graduating May 2026. I work on empirical AI security: LLM-guided fuzzing, protocol security, libFuzzer/OSS-Fuzz-style workflows, sanitizer-driven crash triage, and reproducible vulnerability-discovery experiments.
 
-Here are some ideas to get you started:
+My current senior capstone direction is an ICST-style research project on LLM-guided libFuzzer harness synthesis for MQTT broker fuzzing. The core question: can LLM-guided agents reduce manual harness-writing effort while still producing harnesses that compile, reach meaningful parser coverage, and surface sanitizer-detectable bugs?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-</p>
-<p align='center'>
-<a href="mailto:saber@sabergaribi.com"><img height="30" src="https://raw.githubusercontent.com/iansmathew/iansmathew/master/assets/icon_email.png"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-4th Year Computer and Cybersecurity engineering major at Illinois Tech. </br>This is my github for all things related to class work and personal projects.
+## Current Focus
 
-</br>🔭 Currently helping with maintaining a conversational AI application for a consulting firm
+- LLM-guided harness synthesis for MQTT/NanoMQ components
+- libFuzzer, Clang/LLVM, ASan/UBSan, dictionaries, seed corpora, and crash triage
+- OSS-Fuzz-style build and integration workflows
+- Professional software engineering in C#, Python, JavaScript/React, Java, Azure DevOps, Agile teams, and AI-driven applications
 
-⚡ Fun fact: Born, Raised and Residing in the the great city of Chicago, IL!
-</p>
+## Selected Work
+
+- `nanomq-fuzzer`: in-progress MQTT/NanoMQ fuzzing fork with libFuzzer target work, corpus/dictionary setup, and sanitizer-oriented workflow.
+- `oss-fuzz`: workflow fork for studying continuous fuzzing integration patterns.
+- `sharpfuzz`: .NET fuzzing reference work relevant to managed-code security testing.
+
+Contact: saber@sabergaribi.com
